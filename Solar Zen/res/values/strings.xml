@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SolarZen!</string>
+    <string name="app_name">Solar Zen</string>
+    <string name="defPackage">com.epazzzsoftware.solarzen</string>
+    <item name="splash_delay" type="attr" format="integer">1600</item>
+    
+    <!-- Attributes -->
+
+<item format="integer" name="text_continue_x" type="attr">96</item>
+<item format="integer" name="text_continue_y" type="attr">198</item>  
+  
+<item format="integer" name="menu_text_x" type="attr">93</item>
+<item format="integer" name="menu_text_y" type="attr">264</item>
+
+<item format="integer" name="menu_text_abt_x" type="attr">39</item>
+<item format="integer" name="menu_text_abt_y" type="attr">193</item>
+
+<item format="integer" name="btn_continue_x" type="attr">96</item>
+<item format="integer" name="btn_continue_y" type="attr">198</item>
+<item format="integer" name="btn_continue_w" type="attr">128</item>
+<item format="integer" name="btn_continue_h" type="attr">42</item>
+
+<item format="integer" name="btn_newgame_x" type="attr">80</item>
+<item format="integer" name="btn_newgame_y" type="attr">254</item>
+<item format="integer" name="btn_newgame_w" type="attr">160</item>
+<item format="integer" name="btn_newgame_h" type="attr">50</item>
+
+<item format="integer" name="btn_howtoplay_x" type="attr">70</item>
+<item format="integer" name="btn_howtoplay_y" type="attr">309</item>
+<item format="integer" name="btn_howtoplay_w" type="attr">180</item>
+<item format="integer" name="btn_howtoplay_h" type="attr">40</item>
+
+<item format="integer" name="btn_about_x" type="attr">100</item>
+<item format="integer" name="btn_about_y" type="attr">374</item>
+<item format="integer" name="btn_about_w" type="attr">120</item>
+<item format="integer" name="btn_about_h" type="attr">50</item>
+
+<item format="integer" name="sun_x" type="attr">128</item>
+<item format="integer" name="sun_y" type="attr">208</item>
+
+
+<string name="zen01">\"The journey of #a thousand miles #must begin with #a single step.\"##Lao Tzu</string>
+<string name="zen02">\"The water flows, #but back into #the ocean; #The moon sinks, #but is even #in Heaven.\" </string>
+<string name="zen03">\"The reverse side #also has #a reverse side...\"##Japanese Proverb.</string>
+<string name="zen04">\"Ride your horse #along the edge #of a sword; #hide yourself #in the middle #of flames...\"##Zen saying. </string>
+<string name="zen05">\"Day after day #the sun...\"##Zen saying. </string>
+<string name="zen06">\"In winter, #the seven stars #walk upon #a crystal forest...\"##Soen Nakagawa. </string>
+<string name="zen07">\"Externally keep #yourself away from #all relationships, #and internally have #no pantings #in your heart; #when your mind #is like unto #a straight-standing #wall, you may enter #into the Path.\"##Bodhidharma</string>
+<string name="zen08">\"The path of #the enlightened #one leaves no #track - it is like #the path of birds #in the sky.\"</string>
+<string name="zen09">\"A jug fills #drop by drop.\"</string>
+<string name="zen10">\"We cannot see #our reflection #in running water. #It is only in #still water #that we can see.\"</string>
+<string name="zen11">\"It takes a wise #man to learn from #his mistakes, but an even #wiser man to learn #from others.\"</string>
+<string name="zen12">\"To know the #road ahead, ask #those coming #back.\"</string>
+<string name="zen13">\"Normally, #we do not so much #look at things #as overlook them....\"##Alan Watts.</string>
+<string name="zen14">\"One moon shows #in every pool #in every pool #the one moon.\"</string>
+<string name="zen15">\"Your Treasure House #is in yourself, #it contains #all you need.\"##Hui Hai</string>
+</resources>
