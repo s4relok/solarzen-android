@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<color name="planet_1">#7DD23D</color>
+<color name="planet_2">#F94D77</color>
+<color name="planet_3">#5C4EFB</color>
+<color name="planet_4">#E27B49</color>
+<color name="planet_5">#4C75F9</color>
+<color name="planet_6">#D35C99</color>
+<color name="planet_7">#3B90AB</color>
+<color name="planet_8">#4DD286</color>
+<color name="planet_9">#87AB3B</color>
+<color name="planet_10">#E25436</color>
+<color name="planet_11">#61BE61</color>
+<color name="planet_12">#EAC88A</color>
+<color name="planet_13">#825EAD</color>
+<color name="planet_14">#4A73BF</color>
+<color name="planet_15">#1A456B</color>
+
+<color name="arrow_out">#C9D5ED</color>
+<color name="arrow_in">#234e79</color>
+
+
+</resources>
